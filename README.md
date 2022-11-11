@@ -10,6 +10,6 @@ All Jupyter notebooks and Python scripts for generating figures, experiments, an
 - **Supplement.ipynb** contains code for generating additional Extended Data figure panels
 - **process_single_cell_data.ipynb** contains code for preprocessing of some of the single-cell datasets used in the experiments
 - **scg_scripts/** contains Python scripts for doing some of the heavier computations/simulations to get results for visualization in the notebooks above.
-
+- **Supplementary_Videos.zip** contains HTML and GIF files corresponding to dynamic visualizations in Figure 1 of the manuscript.
 
 The Python package for the associated DynamicViz software can be found at: https://github.com/sunericd/dynamicviz
